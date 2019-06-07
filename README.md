@@ -1,2 +1,3 @@
-# Bank-application
-Scenario: You are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.   
+
+java project by udemy course
+Build 5 complete, end-to-end Java applications from scratch
